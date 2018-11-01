@@ -1,0 +1,8 @@
+Un agrónomo ha analizado la relación entre la cantidad de agua aplicada (en m3
+) y el correspondiente rendimiento de cierta
+cosecha (en toneladas por hectárea) obteniendo los siguientes datos
+Agua, X 8 16 24 32
+Rendimiento, Y 4.1 4.5 5.1 6.1
+Utilizando regresión lineal, obtener el rendimiento que cabe esperar si la cantidad de agua aplicada es de 12 m3
+.
+Sol: 4.29 ton/h 
